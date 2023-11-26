@@ -1,6 +1,6 @@
 ![download](https://user-images.githubusercontent.com/53944279/126780319-c9e39282-f1be-4dc4-b7d4-6727e6d5e129.jpg)
 
-- 👋 Hi, I’m Anshita Makode. I'm working as a Systems Engineer at TCS. I'm interested in web development and machine learning. Open to contribute in open source machine learning projects. I recently under graduated (Class of 2021) with a GPA of 9.35 
+- 👋 Hi, I’m Anshita Makode. I'm working as a Software Engineer. I'm interested in web development and machine learning. Open to contribute in open source machine learning projects. I recently under graduated (Class of 2021) with a GPA of 9.35 
 - 👀 I’m interested in cleaning, preprocessing and building machine learning models
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on open source machine learning projects
